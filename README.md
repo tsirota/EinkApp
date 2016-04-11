@@ -1,0 +1,2 @@
+# EinkApp
+Testing out Cordova
